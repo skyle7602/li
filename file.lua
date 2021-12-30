@@ -2393,7 +2393,7 @@ function Kavo.CreateLib(kavName, themeList)
                 toggleDisabled.BackgroundTransparency = 1.000
                 toggleDisabled.Position = UDim2.new(0.704659104, 0, 0.0657142699, 0)
                 toggleDisabled.Size = UDim2.new(0, 21, 0, 21)
-                toggleDisabled.Image = "rbxassetid://4535952024"
+                toggleDisabled.Image = "rbxassetid://3926309567"
                 toggleDisabled.ImageColor3 = themeList.SchemeColor
                 toggleDisabled.ImageRectOffset = Vector2.new(628, 420)
                 toggleDisabled.ImageRectSize = Vector2.new(48, 48)
@@ -2404,7 +2404,7 @@ function Kavo.CreateLib(kavName, themeList)
                 toggleEnabled.BackgroundTransparency = 1.000
                 toggleEnabled.Position = UDim2.new(0.704999983, 0, 0.0659999996, 0)
                 toggleEnabled.Size = UDim2.new(0, 21, 0, 21)
-                toggleEnabled.Image = "rbxassetid://4535951657"
+                toggleEnabled.Image = "rbxassetid://3926309567"
                 toggleEnabled.ImageColor3 = themeList.SchemeColor
                 toggleEnabled.ImageRectOffset = Vector2.new(784, 420)
                 toggleEnabled.ImageRectSize = Vector2.new(48, 48)
