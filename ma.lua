@@ -75,7 +75,7 @@ local themeStyles = {
         Background = Color3.fromRGB(50, 35, 50),
         Header = Color3.fromRGB(36,66,145),
         TextColor = Color3.fromRGB(255,255,255),
-        ElementColor = Color3.fromRGB(0, 0, 0)
+        ElementColor = Color3.fromRGB(0, 0, 0
     },
     GrapeTheme = {
         SchemeColor = Color3.fromRGB(166, 71, 214),
@@ -611,7 +611,7 @@ function Kavo.CreateLib(kavName, themeList)
                 viewInfo.Position = UDim2.new(0.930000007, 0, 0.151999995, 0)
                 viewInfo.Size = UDim2.new(0, 23, 0, 23)
                 viewInfo.ZIndex = 2
-                viewInfo.Image = "rbxassetid://817367649"
+                viewInfo.Image = "rbxassetid://3926305904"
                 viewInfo.ImageColor3 = themeList.SchemeColor
                 Objects[viewInfo] = "ImageColor3"
                 viewInfo.ImageRectOffset = Vector2.new(764, 764)
@@ -807,7 +807,7 @@ function Kavo.CreateLib(kavName, themeList)
                 viewInfo.Position = UDim2.new(0.930000007, 0, 0.151999995, 0)
                 viewInfo.Size = UDim2.new(0, 23, 0, 23)
                 viewInfo.ZIndex = 2
-                viewInfo.Image = "rbxassetid://817367649"
+                viewInfo.Image = "rbxassetid://3926305904"
                 viewInfo.ImageColor3 = themeList.SchemeColor
                 viewInfo.ImageRectOffset = Vector2.new(764, 764)
                 viewInfo.ImageRectSize = Vector2.new(36, 36)
@@ -1006,7 +1006,7 @@ function Kavo.CreateLib(kavName, themeList)
                     toggleDisabled.BackgroundTransparency = 1.000
                     toggleDisabled.Position = UDim2.new(0.0199999996, 0, 0.180000007, 0)
                     toggleDisabled.Size = UDim2.new(0, 21, 0, 21)
-                    toggleDisabled.Image = "rbxassetid://4535952024"
+                    toggleDisabled.Image = "rbxassetid://3926309567"
                     toggleDisabled.ImageColor3 = themeList.SchemeColor
                     toggleDisabled.ImageRectOffset = Vector2.new(628, 420)
                     toggleDisabled.ImageRectSize = Vector2.new(48, 48)
@@ -1017,7 +1017,7 @@ function Kavo.CreateLib(kavName, themeList)
                     toggleEnabled.BackgroundTransparency = 1.000
                     toggleEnabled.Position = UDim2.new(0.0199999996, 0, 0.180000007, 0)
                     toggleEnabled.Size = UDim2.new(0, 21, 0, 21)
-                    toggleEnabled.Image = "rbxassetid://4535951657"
+                    toggleEnabled.Image = "rbxassetid://3926309567"
                     toggleEnabled.ImageColor3 = themeList.SchemeColor
                     toggleEnabled.ImageRectOffset = Vector2.new(784, 420)
                     toggleEnabled.ImageRectSize = Vector2.new(48, 48)
