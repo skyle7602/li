@@ -807,7 +807,7 @@ function Kavo.CreateLib(kavName, themeList)
                 viewInfo.Position = UDim2.new(0.930000007, 0, 0.151999995, 0)
                 viewInfo.Size = UDim2.new(0, 23, 0, 23)
                 viewInfo.ZIndex = 2
-                viewInfo.Image = "rbxassetid://3926305904"
+                viewInfo.Image = "rbxassetid://817367649"
                 viewInfo.ImageColor3 = themeList.SchemeColor
                 viewInfo.ImageRectOffset = Vector2.new(764, 764)
                 viewInfo.ImageRectSize = Vector2.new(36, 36)
